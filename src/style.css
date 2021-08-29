@@ -1,0 +1,58 @@
+/* Made By: Henrique Saraiva */
+/* GitHub Profile: HenriqueCSaraiva */
+/* Linkedin Profile: www.linkedin.com/in/henrique-csaraiva */
+
+.dropdown-item{
+    padding: 4px;
+    padding-left: 10px;
+}
+
+.img-carousel{
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 500px;
+}
+
+.img-carousel-2{
+    object-fit: cover;
+    height: 500px;
+}
+
+.font-title{
+font-family: 'Pacifico', cursive;
+}
+
+.special-color{
+    color: darkred;
+}
+.navbar-light .navbar-brand {
+    color: darkred;
+    font-family: 'Pacifico', cursive;
+}
+
+.card-img-top{
+    object-fit: cover;
+    height: 214px;
+}
+.card{
+    max-width: 18rem;
+}
+
+.special-color-button{
+    background-color: darkred;
+}
+
+.btn-primary{
+    border-color: inherit;
+}
+
+.special-color-border{
+    border-color: darkred;
+}
+
+.submit-button{
+    width: 72px;
+    height: 38px;
+    margin: 0px 4px 0px 0px;
+}
+
