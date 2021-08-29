@@ -3,75 +3,48 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+Fruto e Fruta é um website feito utilizando HTML, CSS e Bootstrap.
 
-Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
+O website tem como objetivo apresentar diferentes receitas, de forma que, sejam aproveitados diversos alimentos em uma única receita. Assim, garantirá ao usuário uma refrescante experiência.
 
-A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
+## Layout Desktop
+![Desktop1](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Home1-PTBR.png)
+
+![Desktop2](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Languages-PTBR.png)
+
+![Desktop3](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Contact-PTBR.png)
 
 ## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Mobile1-PTBR.png) ![Mobile 2](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Mobile3-PTBR.png) 
 
-## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+## Layout Tablets
+![Tablet1](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Tablet1-PTBR.png)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
+![Tablet2](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/1Tablet2-PTBR.png)
 
-## Modelo conceitual
-![Modelo Conceitual](https://github.com/acenelio/assets/raw/main/sds1/modelo-conceitual.png)
+# About the project
 
-# Tecnologias utilizadas
-## Back end
-- Java
-- Spring Boot
-- JPA / Hibernate
-- Maven
-## Front end
-- HTML / CSS / JS / TypeScript
-- ReactJS
-- React Native
-- Apex Charts
-- Expo
-## Implantação em produção
-- Back end: Heroku
-- Front end web: Netlify
-- Banco de dados: Postgresql
+Fruto e Fruta is a website made using HTML, CSS and Bootstrap.
 
-# Como executar o projeto
+The website aims to show different recipes, so that different foods are used in a single recipe. Thus, it will guarantee the user a refreshing experience.
 
-## Back end
-Pré-requisitos: Java 11
+## English Layout 
+![Tablet-eng1](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/2Tablet1-ENG.png)
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+# À propos du projet
 
-# entrar na pasta do projeto back end
-cd backend
+Fruto e Fruta est un Website réalisé en utilisant HTML, CSS e Bootstrap.
 
-# executar o projeto
-./mvnw spring-boot:run
-```
+Le Website vise à présenter différentes recettes, de sorte que différents aliments soient utilisés dans une seule recette. Ainsi, il garantira à l'utilisateur une expérience rafraîchissante.
 
-## Front end web
-Pré-requisitos: npm / yarn
+## Français Layout 
+![Tablet-fr1](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/3Tablet1-FR.png) 
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
+![Tablet-fr2](https://github.com/HenriqueCSaraiva/Fruto-e-Fruta/blob/master/src/img/Assets-ReadME/3Tablet2-FR.png)
 
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+HenriqueCSaraiva
 
-https://www.linkedin.com/in/wmazoni
+www.linkedin.com/in/henrique-csaraiva
